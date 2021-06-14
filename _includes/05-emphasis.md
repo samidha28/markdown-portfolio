@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Hey I'm _Samidha Thawait_ ✨**
+_This is an example of markdown_
+_k bye 🙋‍♀️_
