@@ -1,0 +1,4 @@
+### Hobbies
+- Dance
+- Paint
+- Sing
